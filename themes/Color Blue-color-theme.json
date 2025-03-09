@@ -132,6 +132,32 @@
         // "notebook.selectedCellBorder": "#9370DB",
         // "notebook.symbolHighlightBackground": "#00FF00",
         // "notebook.editorBackground": "#FFFFFF",
+
+		/*************
+		* Terminal Settings
+		*******/
+		"terminal.foreground": "#1e90ff",
+		"terminal.background": "#fff07c",
+		// "terminalOverviewRuler.cursorForeground": "#FFF07C",
+		// "terminalCursor.background": "#00ff00",
+		// "terminalCursor.foreground": "#1e90ff",
+		// "terminal.ansiBrightBlack": "#004cff",
+		// "terminal.ansiBrightBlue": "#ff00ff",
+		// "terminal.ansiBrightCyan": "#004cff",
+		// "terminal.ansiBrightGreen": "#004cff",
+		// "terminal.ansiBrightMagenta": "#004cff",
+		// "terminal.ansiBrightRed": "#ff00ff",
+		// "terminal.ansiBrightWhite": "#004cff",
+		// "terminal.ansiBrightYellow": "#004cff",
+		"terminal.ansiBlue": "#1e90ff",
+		// "terminal.ansiCyan": "#ff00ff",
+		"terminal.ansiGreen": "#00ffc3",
+		"terminal.ansiMagenta": "#004cff",
+		"terminal.ansiRed": "#ff00ff",
+		"terminal.ansiWhite": "#ffffff",
+		"terminal.ansiYellow": "#1e90ff",
+		"terminal.selectionBackground": "#00ffc3",
+		"terminal.border": "#004cff",		
 		/*************
 		* Misc/Unorganized
 		*******/
@@ -154,11 +180,6 @@
 		"peekViewTitleDescription.foreground": "#ff0000",
 		"descriptionForeground": "#ffffff",
 		"foreground":"#004cff",
-		"terminal.ansiBlack": "#004cff",
-		"terminal.foreground": "#ff0000",
-		"terminalOverviewRuler.cursorForeground": "#FFF07C",
-		"terminalCursor.background": "#004cff",
-		"terminalCursor.foreground": "#FFF07C",
 		"list.activeSelectionForeground": "#FFFFFF",  
 		"list.inactiveSelectionForeground": "#FFFFFF",  
 		"settings.modifiedItemIndicator": "#ff0000",
@@ -167,6 +188,7 @@
 		"icon.foreground": "#00ff00",
 		"button.background": "#ff0000",
 		"menu.background": "#1e90ff",
+
 
 	},
 	"tokenColors": [
