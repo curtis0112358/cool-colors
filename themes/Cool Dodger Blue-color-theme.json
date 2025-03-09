@@ -301,7 +301,7 @@
 				"string",
 				"meta.locals.tf",
 				"punctuation",
-				"keyword.operator.arithmetic",
+				"keyword.operator.arithmetic"
 			],
 			"settings": {
 				"foreground": "#ffffff",
