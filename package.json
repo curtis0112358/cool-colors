@@ -3,7 +3,7 @@
   "displayName": "Cool Colors",
   "publisher": "curtis0112358",
   "description": "This extension gives a cool blue color theme",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/curtis0112358/cool-colors.git"
@@ -26,7 +26,7 @@
       {
         "label": "Cool Doger Blue",
         "uiTheme": "vs",
-        "path": "./themes/Color Blue-color-theme.json"
+        "path": "./themes/Cool Dodger Blue-color-theme.json"
       }
     ]
   },
