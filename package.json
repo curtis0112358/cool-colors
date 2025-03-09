@@ -1,13 +1,24 @@
 {
-  "name": "color-blue",
-  "displayName": "color-blue",
+  "name": "cool-colors",
+  "displayName": "Cool Colors",
+  "publisher": "curtis0112358",
   "description": "This extension gives a cool blue color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curtis0112358/cool-colors.git"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "cool colors",
+    "color blue",
+    "dogerblue",
+    "dodger blue"
   ],
   "contributes": {
     "themes": [
