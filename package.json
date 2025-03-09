@@ -20,6 +20,7 @@
     "dogerblue",
     "dodger blue"
   ],
+  "icon": "images/cute-zebra.jpg",
   "contributes": {
     "themes": [
       {
