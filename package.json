@@ -27,6 +27,11 @@
         "label": "Cool Doger Blue",
         "uiTheme": "vs",
         "path": "./themes/Cool Dodger Blue-color-theme.json"
+      },
+      {
+        "label": "Darker Doger Blue",
+        "uiTheme": "vs",
+        "path": "./themes/Darker Dodger Blue-color-theme.json"
       }
     ]
   },
