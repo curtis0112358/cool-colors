@@ -84,6 +84,12 @@
 		"input.foreground": "#FFF07C",
 		"input.border":"#FFF07C",
 		"focusBorder": "#FFF07C",
+		"dropdown.background": "#004cfe",
+		"dropdown.foreground": "#FFF07C",
+		"list.hoverBackground": "#FFF07C",
+		"list.hoverForeground": "#004cfe",
+		"list.activeSelectionBackground":"#004cfe",
+
 		/*************
 		* Title Bar
 		*******/
