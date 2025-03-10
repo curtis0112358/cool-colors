@@ -69,7 +69,7 @@
 		// "input.foreground": "#004cfe",
 		"sideBar.background": "#004cfe",
 		"sideBar.border": "#FFF07C",
-		"sideBar.foreground": "#", // "#1e90ff",
+		"sideBar.foreground": "#FF991C", // "#1e90ff",
 		"sideBar.dropBackground": "#ff0000",
 		"sideBarActivityBarTop.border": "#ff0000",
 		"sideBarSectionHeader.foreground": "#FFF07C",
