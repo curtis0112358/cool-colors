@@ -200,7 +200,12 @@
 		"list.activeSelectionForeground": "#FFFFFF",  
 		"list.inactiveSelectionForeground": "#FFFFFF",  
 		"settings.modifiedItemIndicator": "#ff0000",
+
+		"tab.inactiveForeground": "#AAAAAA",
+		"tab.activeForeground": "#00ff00",
 		"tab.hoverBackground": "#FFF07C",
+		"tab.border": "#FFF07C",
+		
 		"actionBar.toggledBackground": "#ff00ff",
 		"icon.foreground": "#00ff00",
 		"button.background": "#ff0000",
