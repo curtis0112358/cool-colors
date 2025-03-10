@@ -94,6 +94,8 @@
 		"statusBarItem.remoteBackground":   "#9FE2BF",
 		"statusBarItem.remoteForeground": "#1e90ff",
 		"statusBar.border": "#FFF07C",
+		"statusBar.debuggingBackground": "#FF991C", 
+		"statusBar.noFolderBackground": "#1e90ff",
 		/*************
 		* Git Settings
 		*******/
