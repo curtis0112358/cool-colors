@@ -69,7 +69,7 @@
 		// "input.foreground": "#004cfe",
 		"sideBar.background": "#004cfe",
 		"sideBar.border": "#FFF07C",
-		"sideBar.foreground": "#FF991C", // "#1e90ff",
+		"sideBar.foreground": "#FFF07C", // "#1e90ff",
 		"sideBar.dropBackground": "#ff0000",
 		"sideBarActivityBarTop.border": "#ff0000",
 		"sideBarSectionHeader.foreground": "#FFF07C",
@@ -79,6 +79,11 @@
 		"sideBarTitle.background": "#004cfe",
 		"sideBarTitle.foreground": "#FF991C",
 		
+		// "input.background": "#1e90ff",
+		"input.background": "#004cfe",
+		"input.foreground": "#FFF07C",
+		"input.border":"#FFF07C",
+		"focusBorder": "#FFF07C",
 		/*************
 		* Title Bar
 		*******/

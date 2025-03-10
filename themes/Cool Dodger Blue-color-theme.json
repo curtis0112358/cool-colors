@@ -75,6 +75,12 @@
 		"sideBarStickyScroll.shadow": "#ff0000",
 		"sideBarTitle.background": "#1e90ff",
 		"sideBarTitle.foreground": "#FF991C",
+
+		"input.background": "#1e90ff",
+		// "input.background": "#004cfe",
+		"input.foreground": "#FFF07C",
+		"input.border":"#FFF07C",
+		"focusBorder": "#FFF07C",
 		/*************
 		* Title Bar
 		*******/
