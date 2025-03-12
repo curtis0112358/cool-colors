@@ -36,7 +36,7 @@
 		"editor.findMatchHighlightBackground": "#FA8072",
 		"editorCursor.background": "#ff00ff",
 		"editorCursor.foreground": "#ff00ff",
-		"editorGroup.border": "#ff00ff",
+		"editorGroup.border": "#00ff00",
 		"editorLineNumber.activeForeground": "#004cff",
 		"editorLineNumber.foreground": "#FF991C",
 		"editorGroup.emptyBackground": "#1e90ff",
@@ -83,7 +83,7 @@
 		"focusBorder": "#FFF07C",
 		"dropdown.background": "#1e90ff",
 		"dropdown.foreground": "#FFF07C",
-		"list.hoverBackground": "#FFF07C",
+		"list.hoverBackground": "#FF991C",
 		"list.hoverForeground": "#1e90ff",
 		"list.activeSelectionBackground":"#1e90ff",
 
